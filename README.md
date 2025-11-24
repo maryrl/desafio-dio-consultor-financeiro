@@ -47,6 +47,19 @@ Pode utilizar a tecnologia que achar necessário.
 
 <img width="1360" height="633" alt="Agente Financeiro - Organize suas finanças conversando - Brave 24_11_2025 17_09_33" src="https://github.com/user-attachments/assets/80269b61-2c6a-4b51-b539-86a4aaf23f23" />
 
+# 🔑 Funcionalidades Principais
+- Login e Cadastro Rápido
+Interface direta com campos para e-mail e senha, além de opções para criar conta ou acessar uma já existente.
+- Assistente Financeiro com IA
+O app permite que o usuário converse naturalmente com um agente inteligente que ajuda a organizar gastos, definir metas e entender hábitos financeiros.
+- Controle Simples
+Ferramentas de gerenciamento financeiro fáceis de usar, ideais para quem busca praticidade no dia a dia.
+- Dicas Inteligentes (Dicas IA)
+Sugestões personalizadas com base no comportamento financeiro do usuário, ajudando a economizar e investir melhor.
+- Segurança Total (100% Seguro)
+Compromisso com a proteção dos dados do usuário, utilizando criptografia e boas práticas de privacidade.
+
+
 # Resultado final:
 https://ask-money-coach.lovable.app/
 
